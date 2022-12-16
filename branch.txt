@@ -1,3 +1,0 @@
-This is on the main branch.
-I should have done this commit after branching.  Oops.
-This commit is a terrible idea, but may not bite me.
