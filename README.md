@@ -1,8 +1,8 @@
 # Making a website as a team (Git collaboration)
 
-Practice your skills in GIT while developing a typical website.
+PRACTICE_YOUR_SKILLS_IN_GIT_WHILE_DEVELOPING_A_TYPICAL_WEBSITE.
 
-Each student works on a different file, for a different part of the website, and the most senior can work as Team Leader (for integration and deployment), unless the teacher prefers to be the team leader of the whole class. The Html-Template-Engine library will take care of putting all the pieces together.
+EACH_STUDENT_WORKS_ON_A_DIFFERENT_FILE,_FOR_A_DIFFERENT_PART_OF_THE_WEBSITE,_AND_THE_MOST_SENIOR_CAN_WORK_AS_TEAM_LEADER_(FOR_INTEGRATION_AND_DEPLOYMENT),_UNLESS_THE_TEACHER_PREFERS_TO_BE_THE_TEAM_LEADER_OF_THE_WHOLE_CLASS._THE_HTML-TEMPLATE-ENGINE_LIBRARY_WILL_TAKE_CARE_OF_PUTTING_ALL_THE_PIECES_TOGETHER.
 
 ## 📝 Instructions
 
