@@ -1,5 +1,5 @@
 body{
-    background: #BDBDBD;
+    background:white;
 }
 
 .container {
@@ -11,6 +11,7 @@ body{
     width: 20%;
     border-radius: 50%;
 }
+
 
 .container h1 {
     color: black;
@@ -24,7 +25,7 @@ body{
     width: auto;
     border: 50%;
 }
- 
+
 .help{
     background-image: url("https://picsum.photos/id/651/750/300");
     height: 300px;
