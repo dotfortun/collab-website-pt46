@@ -1,3 +1,24 @@
 body{
-    background: #BDBDBD;
-}
+    background: #BDBDBD; 
+} 
+.help{
+    background-image: url("https://picsum.photos/id/651/750/300");
+    height: 300px;
+    color: orange; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+} 
+.heading{
+    height: 50px; 
+    background-color: aliceblue;
+    text-align: center; 
+    opacity: 0.8;
+} 
+.head2{
+    height: 50px;
+    background-color: aliceblue;
+    margin-top: 25px;
+    text-align: center; 
+    opacity: .8;
+} 
