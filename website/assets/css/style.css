@@ -1,6 +1,30 @@
 body{
-    background: #BDBDBD; 
-} 
+    background: #BDBDBD;
+}
+
+.container {
+    display: flex;
+}
+
+.container img {
+    height: 20%;
+    width: 20%;
+    border-radius: 50%;
+}
+
+.container h1 {
+    color: black;
+}
+
+.container h1 span {
+    color: grey;
+}
+
+.left-col {
+    width: auto;
+    border: 50%;
+}
+ 
 .help{
     background-image: url("https://picsum.photos/id/651/750/300");
     height: 300px;
